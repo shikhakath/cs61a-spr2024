@@ -7,4 +7,4 @@ Cats - Autocorrected Typing Software
 Ants - The Game Ants vs SomeBees
 Scheme - Building a Scheme Interpreter
 
-A more detailed description of each project and the concepts tested are in each folder. 
+A more detailed description of each project and the concepts tested are in each folder.
