@@ -1,0 +1,1 @@
+Tests for Cats Project to ensure it works properly. 
